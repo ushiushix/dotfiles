@@ -5,7 +5,6 @@ nnoremap <Down> gj
 nnoremap <Up> gk
 set number
 set smartcase
-set ignorecase
 set nowrapscan
 set backspace=indent,eol,start
 set showmatch
